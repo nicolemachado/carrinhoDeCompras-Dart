@@ -1,9 +1,7 @@
 # carrinhoDeCompras-Dart
 Projetinho criado a partir do curso de <a href="https://www.udemy.com/course/logica-de-programacao-com-dart/">Lógica de Porgramação com Dart da Udemy</a>, ministrado pelo Jacob Moura (fundador do Flutterando).
 
-Projeto para treinar lógica de programação com Dart (principalmente).
-
-Este projeto foi feito para rodar no TERMINAL da máquina!!
+Projeto para treinar lógica de programação com Dart (principalmente), feito para rodar no TERMINAL da máquina!!
 
 *  **COM O TEMPO DE CURSO, IREI ADICIONANDO MAIS PROJETINHOS.**
 
