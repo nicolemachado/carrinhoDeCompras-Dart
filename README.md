@@ -1,5 +1,5 @@
 # carrinhoDeCompras-Dart
-Projetinho criado a partir do curso de Lógica de Porgramação com Dart da Udemy, ministrado pelo Jacob Moura (fundador do Flutterando).
+Projetinho criado a partir do curso de <a href="https://www.udemy.com/course/logica-de-programacao-com-dart/">Lógica de Porgramação com Dart da Udemy</a>, ministrado pelo Jacob Moura (fundador do Flutterando).
 
 Projeto para treinar lógica de programação com Dart (principalmente).
 
