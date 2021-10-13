@@ -5,7 +5,7 @@ Projeto para treinar lógica de programação com Dart (principalmente), feito p
 
 *  **COM O TEMPO DE CURSO, IREI ADICIONANDO MAIS PROJETINHOS.**
 
-Para poder utilizar ele, tem que instalar o Dart na sua >> <a href="https://dart.dev/get-dart"> documentação</a> << 
+Para poder utilizar ele, tem que instalar o Dart pela >> <a href="https://dart.dev/get-dart"> documentação</a> << 
 
 Neste <a href="https://time-horse-883.notion.site/DART-41f30750de3c42e78138697e9b43009d">link<a/> você poderá acessar ao meu resumo no Notion de Lógica de Programação com Dart baseado no curso da Udemy.
 
